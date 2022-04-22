@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Laravel, Flutter, Dart, PHP**
 
-- 📫 How to reach me **renemucyomucyomucici@gmail.com**
+- 📫 How to reach me **renemucyomucici@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
