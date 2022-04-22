@@ -17,12 +17,10 @@ Skills: PHP / Laravel/ JS / HTML /  CSS / BOOTSTRAP / JAVA / Flutter / Dart
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mucyorene)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mucyorene&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mucyorene&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mucyorene)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mucyorene)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mucyorene)  
 
 ![Profile views](https://gpvc.arturio.dev/mucyorene)  
