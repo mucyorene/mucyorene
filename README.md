@@ -3,7 +3,7 @@
 
 Skills: PHP / Laravel/ JS / HTML /  CSS / BOOTSTRAP / JAVA / Flutter / Dart
 
-- 🔭 I’m currently working on LazaApp 
+- 🔭 I’m currently working on kudibooks
 - 🌱 I’m currently learning Flutter / Dart 
 - 💬 Ask me about PHP / Laravel / Flutter / Dart 
 - 📫 How to reach me: renemucyomucici@gmail.com 
