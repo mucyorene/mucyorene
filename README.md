@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Rene MUCYO
 #### I am A passionate mobile, Laravel, PHP developer
 
-Skills: PHP / Laravel/ JS / HTML /  CSS / BOOTSTRAP / JAVA / Flutter / Dart
+Skills: Flutter / PHP / Laravel/ JS / HTML /  CSS / BOOTSTRAP / JAVA / Dart
 
 - 🔭 I’m currently Mobile Application developer at Kudbooks & Academic Bridge
 - 🌱 I'm professional Flutter developer
